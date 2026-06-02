@@ -28,7 +28,7 @@ Hệ thống là sự kết hợp tối ưu giữa ba phương pháp tiếp cậ
 ## 👥 4. Danh sách thành viên nhóm 7
 
 
-| STT | Họ và tên | Mã sinh viên | Vai trò / Nhiệm vụ chính trong dự án |
+| STT | Họ và tên | Mã sinh viên | Nhiệm vụ chính trong dự án |
 | :---: | :--- | :---: | :--- |
 | 1 | Hoàng Văn Thiết | 21002239 | Khảo sát dữ liệu MovieLens 100K, chia tập theo phương pháp Leave-One-Out, sinh mẫu negative và cài đặt các thước đo HR, NDCG, MRR. |
 | 2 | Ngô Thế Hướng | 21002209 | Xây dựng mô hình ItemPop, ItemKNN và mô hình Content-Based. |
